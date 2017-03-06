@@ -1,0 +1,55 @@
+c:\users\barış altun\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.exe.config
+c:\users\barış altun\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.exe
+c:\users\barış altun\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.pdb
+c:\users\barış altun\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Properties.Resources.resources
+c:\users\barış altun\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.csproj.GenerateResource.Cache
+c:\users\barış altun\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.exe
+c:\users\barış altun\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.pdb
+C:\Users\Barış ALTUN\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\Barış ALTUN\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Form1.resources
+C:\Users\Barış ALTUN\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Ilanlar.resources
+C:\Users\Barış ALTUN\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.IlanVer.resources
+C:\Users\Barış ALTUN\desktop\visual studio 2013\Projects\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.SirketForm.resources
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.exe.config
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.exe
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.pdb
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.exe
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.pdb
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Form1.resources
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Ilanlar.resources
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.IlanVer.resources
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Kisi_Bilgileri.resources
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Properties.Resources.resources
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.SirketForm.resources
+C:\Users\Ezgi-PC\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.csproj.GenerateResource.Cache
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.exe.config
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.exe
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.pdb
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.exe
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.pdb
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Ilanlar.resources
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.IlanVer.resources
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.IsBasvuru.resources
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Kisi_Bilgileri.resources
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Properties.Resources.resources
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.SirketForm.resources
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.csproj.GenerateResource.Cache
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.frm_girisTur.resources
+C:\Users\Barış ALTUN\Desktop\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.frmBasvurular.resources
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.exe.config
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.exe
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.pdb
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.exe
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\bin\Debug\VeriYapılarıÖdevi.pdb
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.frmBasvurular.resources
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.frm_girisTur.resources
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Ilanlar.resources
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.IlanVer.resources
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.IsBasvuru.resources
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Kisi_Bilgileri.resources
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.Properties.Resources.resources
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.SirketForm.resources
+C:\Users\Ezgi-PC\Desktop\veri yapıları proje\VeriYapılarıÖdevi\VeriYapılarıÖdevi\obj\Debug\VeriYapılarıÖdevi.csproj.GenerateResource.Cache
